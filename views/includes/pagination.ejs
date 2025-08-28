@@ -1,0 +1,11 @@
+<div class="pagination">
+    <% if (currentPage > 1) { %>
+        <a href="?page=<%= previousPage %>" class="btn">Previous</a>
+    <% } %>
+    <% for (let i = 1; i <= lastPage; i++) { %>
+        <a href="?page=<%= i %>" class="<%= currentPage === i ? 'active' : '' %>"><%= i %></a>
+    <% } %>
+    <% if (hasNextPage) { %>
+        <a href="?page=<%= nextPage %>" class="btn">Next</a>
+    <% } %>
+</div>

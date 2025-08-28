@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Classic White Sneakers",
+    "price": 79.99,
+    "description": "Timeless white sneakers for everyday comfort and style.",
+    "imageUrl": "/images/classic-white-sneakers.jpg",
+    "userId": "60c72b2f9b1e8b001c8e4d7a" 
+  },
+  {
+    "title": "Running Shoes Pro",
+    "price": 120.00,
+    "description": "High-performance running shoes designed for speed and support.",
+    "imageUrl": "/images/running-shoes-pro.jpg",
+    "userId": "60c72b2f9b1e8b001c8e4d7a"
+  },
+  {
+    "title": "Elegant Leather Loafers",
+    "price": 95.50,
+    "description": "Sophisticated leather loafers perfect for formal and casual occasions.",
+    "imageUrl": "/images/elegant-leather-loafers.jpg",
+    "userId": "60c72b2f9b1e8b001c8e4d7a"
+  },
+  {
+    "title": "Hiking Boots Explorer",
+    "price": 150.00,
+    "description": "Durable and waterproof hiking boots for your next adventure.",
+    "imageUrl": "/images/hiking-boots-explorer.jpg",
+    "userId": "60c72b2f9b1e8b001c8e4d7a"
+  },
+  {
+    "title": "Casual Canvas Shoes",
+    "price": 55.00,
+    "description": "Lightweight and breathable canvas shoes for a relaxed look.",
+    "imageUrl": "/images/casual-canvas-shoes.jpg",
+    "userId": "60c72b2f9b1e8b001c8e4d7a"
+  }
+]
